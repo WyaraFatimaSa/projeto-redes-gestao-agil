@@ -1,19 +1,43 @@
 # projeto-redes-gestao-agil
 Projeto acadêmico integrando gestão ágil, testes de usabilidade e melhorias na infraestrutura de TI
-Projeto Integrado de Redes e Gestão Ágil: Testes de Usabilidade e Proposta de Melhoria na Infraestrutura de TI
+Projeto Integrado: Gestão Ágil, Testes de Usabilidade e Melhoria da Infraestrutura de TI
+Sobre o Projeto
+Este projeto foi desenvolvido como atividade acadêmica da disciplina Projeto Integrado do curso de Análise e Desenvolvimento de Sistemas, com o objetivo de aplicar conhecimentos interdisciplinares adquiridos ao longo do semestre.
 
-Durante este projeto acadêmico, desenvolvi competências técnicas e de gestão aplicando a metodologia ágil Scrum para conduzir testes de usabilidade na interface da plataforma Netflix, avaliando a experiência do usuário e propondo melhorias fundamentadas em análise crítica. Além disso, elaborei uma proposta detalhada para otimização da infraestrutura de TI de uma empresa com problemas de lentidão, contemplando especificações técnicas de hardware e uma arquitetura de rede segmentada para aprimorar desempenho, segurança e organização.
+O trabalho envolveu duas frentes principais:
 
-Entre as principais habilidades aprimoradas destacam-se:
+Gestão Ágil e Testes de Usabilidade:
+Planejamento e execução de testes de usabilidade na plataforma Netflix, utilizando a metodologia Scrum para organizar as tarefas via Trello. Foi realizado um levantamento detalhado de aspectos positivos e negativos da interface, seguido de recomendações para aprimoramento da experiência do usuário.
 
-Planejamento e gestão ágil de projetos utilizando ferramentas como Trello para organização das tarefas;
+Proposta de Melhoria na Infraestrutura de TI:
+Diagnóstico e recomendação de componentes de hardware para otimização do desempenho de computadores e rede de uma empresa, além da criação de uma arquitetura de rede segmentada, segura e eficiente, implementada e simulada com Cisco Packet Tracer.
 
-Condução de testes de usabilidade com análise qualitativa e quantitativa de resultados;
+Estrutura do Repositório
+Scrum-Board/ — Quadros e organização das tarefas no Trello.
 
-Capacidade analítica para identificar pontos críticos em interfaces digitais e propor soluções eficazes;
+Relatorios/ — Documentos com os resultados dos testes de usabilidade e propostas técnicas.
 
-Conhecimento técnico aprofundado em componentes de hardware e arquiteturas de rede, incluindo VLANs, switches gerenciáveis e dispositivos de segurança;
+Cisco-Packet-Tracer/ — Arquivos e diagramas da arquitetura de rede proposta.
 
-Comunicação técnica para elaboração de relatórios claros e estruturados, facilitando a tomada de decisão.
+Documentacao/ — Trabalho formatado conforme normas ABNT.
 
-Este trabalho contribuiu significativamente para meu desenvolvimento profissional, ampliando minha visão integrada entre tecnologia da informação e práticas de gestão, essenciais para a entrega de soluções eficientes e alinhadas às necessidades do usuário e do negócio.
+Principais Tecnologias e Ferramentas
+Trello (gestão ágil)
+
+Cisco Packet Tracer (simulação de rede)
+
+Microsoft Word (formatação e documentação acadêmica)
+
+Habilidades Desenvolvidas
+Planejamento e controle de projetos usando Scrum
+
+Condução e análise de testes de usabilidade
+
+Diagnóstico e proposta de melhorias em infraestrutura de TI
+
+Comunicação técnica e produção documental formal
+
+Uso prático de ferramentas para gestão e simulação de redes
+
+Como Utilizar
+Este repositório serve como registro acadêmico e exemplo prático de um projeto interdisciplinar. 
